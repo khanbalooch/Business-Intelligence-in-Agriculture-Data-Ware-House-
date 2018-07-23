@@ -1,0 +1,2 @@
+0. District/Tehsil Name 1. Mouza/town Name 2. Farmer Name,3. Father Name 4. Area 5. Variety of Crop 6. Sowing Date 7. Visit Date 8. Pest Population1 9. Pest Population2 10. Pest Population3 11. Pest Population4 12. Pest Population5 13. Pest Population6 14. Pest Population7 15. Pest Population8 16. Pest Population9 17. Pest Population10 18. Pest Population11 19. Pest Population12 20. Pesticide Used 21. Pesticide Spray Date 22. Pesticide Dosage 23. CLCV (Disease)
+24. Plant Height
